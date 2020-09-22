@@ -1,3 +1,6 @@
+--- WIP ---
+Objectif : give the S3 endpoint as an option to test other S3-compatible object storage
+
 # S3 Benchmark
 
 Your [Amazon S3](https://aws.amazon.com/s3/) performance depends on 3 things:
